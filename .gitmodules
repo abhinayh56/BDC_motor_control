@@ -1,3 +1,6 @@
 [submodule "lib/Control_cpp"]
 	path = lib/Control_cpp
 	url = https://github.com/abhinayh56/Control_cpp.git
+[submodule "lib/Filter_cpp"]
+	path = lib/Filter_cpp
+	url = https://github.com/abhinayh56/Filter_cpp.git
